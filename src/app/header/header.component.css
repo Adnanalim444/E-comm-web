@@ -1,0 +1,53 @@
+
+:root {
+    --main-color:mediumpurple;
+    
+}
+    
+
+
+header{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.nav{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    width: 95vw;
+    align-items: end;
+    
+}
+
+.nav > a{
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+    text-decoration: none;
+    color: mediumpurple;
+    
+}
+
+.search{
+    margin-bottom: 10px;
+}
+
+.nav > ul{
+    display: inline-flex;
+    list-style: none;
+    
+}
+
+ul > li{
+    margin-left: 10px;
+    text-decoration: none;
+    
+}
+
+ul li a{
+    text-decoration: none;
+}
+
