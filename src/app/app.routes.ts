@@ -9,7 +9,7 @@ export const routes: Routes = [
         component:HomeComponent
     },
     {
-        path:'seller',
+        path:'seller-auth',
         component:SellerAuthComponent
     }
 ];
