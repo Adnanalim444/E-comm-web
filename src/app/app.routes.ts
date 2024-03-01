@@ -1,6 +1,5 @@
 import { Routes } from '@angular/router';
 import { HomeComponent } from './home/home.component';
-import { SelectorContext } from '@angular/compiler';
 import { SellerAuthComponent } from './seller-auth/seller-auth.component';
 
 export const routes: Routes = [
