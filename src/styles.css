@@ -8,3 +8,9 @@ body{
     margin-inline: 2%;
 }
 
+:root{
+    --main-color:mediumpurple;
+    --btntxt-color:Purple;
+    --bg-color:gray;
+
+}

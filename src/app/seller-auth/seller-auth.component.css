@@ -1,0 +1,71 @@
+.sign-up{
+display: flex;
+align-items: center;
+
+flex-direction: column;
+/* margin-top: 50px; */
+
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    
+    min-height: 50vh;
+    padding: 2vh;
+    
+    
+}
+
+.signup-heading{
+    color: var(--main-color);
+    font-size: 5vh;
+    margin-block: 8vh;
+}
+
+.Name{
+    color: var(--main-color);
+    text-align: center;
+    min-height: 5vh;
+    min-width: 30vw;
+    margin-bottom: 10px;
+    border: 1px solid purple;
+    border-radius: 10px;
+
+}
+
+.mail{
+    color: var(--main-color);
+    text-align: center;
+    min-height: 5vh;
+    min-width: 30vw;
+    margin-bottom: 10px;
+    border: 1px solid purple;
+    border-radius: 10px;
+
+}
+.pass{
+    
+    color: var(--main-color);
+    text-align: center;
+    min-height: 5vh;  
+    min-width: 30vw;
+    margin-bottom: 10px;
+    border: 1px solid purple;
+    border-radius: 10px;
+
+}
+
+.btn{
+
+    background-color:gray;
+    color: var(--main-color);
+    font-size: 25px;
+    text-align: center;
+    min-height: 5vh;
+    min-width: 30vw;
+    margin-bottom: 10px;
+    border: 1px solid purple;
+    border-radius: 10px;
+    cursor: pointer;
+}    
