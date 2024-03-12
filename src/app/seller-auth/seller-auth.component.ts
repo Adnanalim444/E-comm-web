@@ -24,7 +24,7 @@ ngOnInit(): void {
 }
 signUp(data:SignUp):void {
   // console.log(data);
-// throw new Error('Method not implemented.');
+  // throw new Error('Method not implemented.');
 this.seller.userSignUp(data).subscribe((result)=>{
 
   if (result) {
